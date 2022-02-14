@@ -28,3 +28,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kjungyoun&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### ⭐️ BOJ Level
+
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=kjyoun0729)](https://solved.ac/kjyoun0729)
+
